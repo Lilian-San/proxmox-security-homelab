@@ -1,0 +1,11 @@
+# Sensitive files
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
